@@ -1,4 +1,4 @@
-# sesnu-files
+# sensu-files
 Contains various files used by sensu server & clients, including
 check scripts
 handlers
