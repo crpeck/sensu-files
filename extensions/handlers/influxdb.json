@@ -1,0 +1,12 @@
+{
+  "influxdb": {
+    "server": "localhost",
+    "port": "8086",
+    "database": "sensu",
+    "username": "sensu",
+    "password": "sensu",
+    "method": "em",
+    "use_ssl": false,
+    "strip_host": true
+  }
+}
